@@ -1,0 +1,168 @@
+    1  ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+    2  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    3  sudo /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    4  sudo /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    5  nano ~/.profile
+    6  brew install python
+    7  su
+    8  brew install python
+    9  su
+   10  su robert
+   11  mkdir Codes
+   12  cd Codes/
+   13  nano hello.py
+   14  python hello.py 
+   15  python hello.py 
+   16  su 
+   17  su robert
+   18  ls
+   19  cd Codes/
+   20  ls
+   21  nano hello.py 
+   22  python hello.py 
+   23  python hello.py 
+   24  python -v
+   25  python
+   26  nano hello.py 
+   27  mkdir ~/lib
+   28  cp -r /Applications/aoeHD.app/Contents/Frameworks/* ~/lib/
+   29  cd /
+   30  ls
+   31  cd Users/
+   32  ls
+   33  /Users/Ewel/anaconda3/bin/jupyter_mac.command ; exit;
+   34  git init
+   35  ls
+   36  ls
+   37  ls
+   38  pwd
+   39  rm -rf .git/
+   40  cd code
+   41  ls
+   42  git init
+   43  git add README.md
+   44  git status
+   45  touch plik
+   46  git status
+   47  git tm --cached plik
+   48  git rm --cached plik
+   49  git statu
+   50  git status
+   51  git rm --cached plik
+   52  rm plik
+   53  git status
+   54  git commit -m "dodalem plik readme.md"
+   55  git config --global --edit
+   56  git commit -m "dodalem plik readme.md"
+   57  git confing --list
+   58  git config --list
+   59  git commit -m "dodalem plik readme.md"
+   60  git config --list
+   61  git status
+   62  git log
+   63  git remote add origin https://github.com/EwelinaMZ/Moje.git
+   64  git remote -v
+   65  git push -u origin master
+   66  ls
+   67  git status
+   68  git status
+   69  cat README.md 
+   70  touch .git
+   71  rm .git
+   72  rmdir .git
+   73  rmdir .gitignore
+   74  touch .gitignore
+   75  nano .gitignore
+   76  nano .gitignore
+   77  cat .gitignore
+   78  git status
+   79  git 
+   80  git add .
+   81  git status
+   82  git status
+   83  git commit -m "Dodalam ierwszy plik jupyter oraz gitignore"
+   84  git status
+   85  git push origin master
+   86  git status
+   87  git status
+   88  git diff
+   89  git add .
+   90  git commit -m "ZMIENIlam jupyter"
+   91  git push origin master
+   92  git add .
+   93  git status
+   94  git commit -m "Zmienne znakowe"
+   95  git push origin master
+   96  cd ..
+   97  ls
+   98  cd /tmp
+   99  git clone https://github.com/pazikkamil/sages_kurs_13102018
+  100* 
+  101  git status
+  102  ls
+  103  cd sages_kurs_13102018/
+  104  ls
+  105* 
+  106  cd .
+  107  cd..
+  108  cd ..
+  109  ls
+  110  rm -rfd sages_kurs_13102018/
+  111  ls
+  112  cd ..
+  113  ls
+  114  cd ..
+  115  pwd
+  116  cd usr/
+  117  ls
+  118  /code
+  119  cd User
+  120  pwd
+  121  cd ..
+  122  ls
+  123  cd Users/
+  124  ls
+  125  cd Ewel
+  126  ls
+  127  cd code
+  128  git status
+  129  history
+  130  grep
+  131  ls
+  132  python
+  133  python --version
+  134  python
+  135  ps aux | grep -i [ython
+  136  ps aux | grep -i python
+  137  ps aux | grep -i -color  python
+  138  ps aux | grep -i -color  python |wc -l
+  139  ps aux | grep -i -color  python 
+  140  cd ..
+  141  ps aux | grep -i -color  python 
+  142  ps aux | grep -i -color python 
+  143  cd code
+  144  cd ~
+  145  pwd
+  146  cd code
+  147  ls
+  148  cd Moje
+  149  ls -al
+  150  git status
+  151  cd ..
+  152  ls
+  153  git status
+  154  python
+  155  git status
+  156  git clone https://github.com/pazikkamil/sages_kurs_13102018
+  157  git add .
+  158  ls
+  159  rmdir sages_kurs_13102018/
+  160  rmr sages_kurs_13102018/
+  161  rmrf sages_kurs_13102018/
+  162  rm -rfd sages_kurs_13102018/
+  163  ls
+  164  git add .
+  165  git commit -m "Dzisiaj - tp cp zrobilam na teraz"
+  166  git push origin master
+  167  git status
+  168  history > history.txt
